@@ -183,7 +183,7 @@ hr {
       margin-top: 59px; }
     .game-container .game-message a {
       display: inline-block;
-      background: #8f7a66;
+      background: #609191;
       border-radius: 3px;
       padding: 0 20px;
       text-decoration: none;
@@ -365,7 +365,7 @@ hr {
         font-size: 0px; } }
   .tile.tile-super .tile-inner {
     color: #f9f6f2;
-    background: #3c3a32;
+    background-image: url('..tile-sets//bishops/12compassrose.jpg');
     font-size: 0px; }
     @media screen and (max-width: 520px) {
       .tile.tile-super .tile-inner {
